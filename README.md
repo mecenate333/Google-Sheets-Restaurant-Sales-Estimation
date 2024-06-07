@@ -34,7 +34,7 @@ This section provides insights into the strengths, weaknesses, opportunities, an
 - 3.4 Polls Insights
 
 
-## 4.Sales Estimation
+## 4. Sales Estimation
 This section presents the final sales estimation based on the analysis conducted in previous sections. It includes adjusted projections for different days and shifts, considering factors such as client demographics, competition, and cultural events.
 
 ## Final Conclusions
