@@ -1,18 +1,6 @@
 # Sales-Estimation-La-Locandiera-Restaurant
 Full Google Sheets sales estimation of an italian restaurant in San Telmo, Buenos Aires
 
-## Approach
-Presenting the tables with the data and making pivots to analyze it and visualize pointing out the main concerns.
-
-## Technologies Used
-- Google Sheets for database tables, findings, and visualizations
-
-## File Structure
-- **data:** Google Sheet file within spreadsheets for each section analyzed
-
-
-
-
 # La Locandiera Restaurant Sales Estimation Project
 
 ## Description
