@@ -1,6 +1,17 @@
 # Sales-Estimation-La-Locandiera-Restaurant
 Full Google Sheets sales estimation of an italian restaurant in San Telmo, Buenos Aires
 
+## Approach
+Presenting the tables with the data and making pivots to analyze it and visualize pointing out the main concerns.
+
+## Technologies Used
+- Google Sheets for database tables, findings, and visualizations
+
+## File Structure
+- **data:** Google Sheet file within spreadsheets for each section analyzed
+
+
+
 
 # La Locandiera Restaurant Sales Estimation Project
 
@@ -8,10 +19,25 @@ Full Google Sheets sales estimation of an italian restaurant in San Telmo, Bueno
 This project aims to estimate the sales revenue for La Locandiera Restaurant by analyzing various factors such as client demographics, spending patterns, and preferences. The analysis utilizes data collected over a 10-day observation period, combined with insights from SWOT analysis and polls conducted among neighbors, tourists, and office workers.
 
 ## Table of Contents
-- [1. 10 days Observations](#10-days-Observations)
-- [2. SWOT](#SWOT)
-- [3. Polls Analysis](#Polls-Analysis)
-- [4. Sales Estimation & Final Conclusions](#Sales-Estimation-&-Final-Conclusions])
+- [Approach](#approach)
+- [Technologies Used](#technologies-used)
+- [File Structure](#file-structure)
+- [1. 10 days Observations](#10-days-observations)
+- [2. SWOT](#swot)
+- [3. Polls Analysis](#polls-analysis)
+- [4. Sales Estimation](#sales-estimation)
+- [Final Conclusions](#final-conclusions)
+
+
+## Approach {#approach}
+Presenting the tables with the data and making pivots to analyze it and visualize, pointing out the main concerns.
+
+## Technologies Used {#technologies-used}
+- Google Sheets for database tables, findings, and visualizations
+
+## File Structure {#file-structure}
+- **data:** Google Sheet file within spreadsheets for each section analyzed
+
 
 
 ## 1. 10 days Observations
