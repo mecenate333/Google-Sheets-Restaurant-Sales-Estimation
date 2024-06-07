@@ -8,11 +8,10 @@ Full Google Sheets sales estimation of an italian restaurant in San Telmo, Bueno
 This project aims to estimate the sales revenue for La Locandiera Restaurant by analyzing various factors such as client demographics, spending patterns, and preferences. The analysis utilizes data collected over a 10-day observation period, combined with insights from SWOT analysis and polls conducted among neighbors, tourists, and office workers.
 
 # Table of Contents
-- [Observation Demographics](#Observation Demographics [Observation Demographics](Observation Demographics))
-- [1. 10 days Observations](#10 days Observations)
+- [1. 10 day Observations](#10-days-Observations)
 - [2. SWOT](#SWOT)
-- [3. Polls Analysis](#Polls Analysis)
-- [4. Sales Estimation & Final Conclusions](#Sales Estimation & Final Conclusions])
+- [3. Polls Analysis](#Polls-Analysis)
+- [4. Sales Estimation & Final Conclusions](#Sales-Estimation-&-Final-Conclusions])
 
 
 
