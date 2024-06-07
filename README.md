@@ -6,9 +6,6 @@ Full Google Sheets sales estimation of an italian restaurant in San Telmo, Bueno
 ## Description
 This project aims to estimate the sales revenue for La Locandiera Restaurant by analyzing various factors such as client demographics, spending patterns, and preferences. The analysis utilizes data collected over a 10-day observation period, combined with insights from SWOT analysis and polls conducted among neighbors, tourists, and office workers.
 
-# Sales-Estimation-La-Locandiera-Restaurant
-Full Google Sheets sales estimation of an Italian restaurant in San Telmo, Buenos Aires
-
 
 # Sales-Estimation-La-Locandiera-Restaurant
 Full Google Sheets sales estimation of an Italian restaurant in San Telmo, Buenos Aires
