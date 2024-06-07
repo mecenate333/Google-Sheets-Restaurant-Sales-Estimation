@@ -31,6 +31,8 @@ Presenting the tables with the data and making pivots to analyze it and visualiz
 
 ## File Structure
 - **data:** Google Sheet file within spreadsheets for each section analyzed
+- To explore the project, please feel free to download the .xlsx file from the repository and save it on your device
+
 
 ## 10 days Observations
 This section shows details of spending, time spent, and visits.
