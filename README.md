@@ -16,9 +16,9 @@ This project aims to estimate the sales revenue for La Locandiera Restaurant by 
 
 ## 1. 10 days Observations
 This section show details of spending, time spent, and visits
-- Clients' Demographics
-- 10 days Observation
-- Observation Summary
+- 1.1 Clients' Demographics
+- 1.2 10 days Observation
+- 1.3 Observation Summary
 
 
 ## 2. SWOT 
