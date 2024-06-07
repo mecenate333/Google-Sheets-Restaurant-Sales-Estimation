@@ -15,19 +15,23 @@ This project aims to estimate the sales revenue for La Locandiera Restaurant by 
 
 
 ## 1. 10 days Observations
+This section show details of spending, time spent, and visits
 - Clients' Demographics
 - 10 days Observation
 - Observation Summary
-*This section show details of spending, time spent, and visits
+
 
 ## 2. SWOT 
 This section provides insights into the strengths, weaknesses, opportunities, and threats of La Locandiera Restaurant, considering factors such as location, competition, and customer preferences.
+- 2.1 General
+- 2.2 Indirect
+- 2.3 Zonal
 
 ## 3. Polls Analysis
-- Polls Among Neighbors
-- Polls Among Tourists
-- Polls Among Office Workers
-- Polls Insights
+- 3.1 Polls Among Neighbors
+- 3.2 Polls Among Tourists
+- 3.3 Polls Among Office Workers
+- 3.4 Polls Insights
 
 
 ## 4.Sales Estimation
